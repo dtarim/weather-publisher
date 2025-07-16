@@ -67,6 +67,7 @@ This allows easier distribution and future scaling.
 
 Containerization also prepares the project for cloud or Kubernetes deployment.
 
+---
 
 🎯 Purpose and Learning Goals
 
@@ -80,6 +81,8 @@ Prepare for containerization (Docker) and automated CI/CD workflows
 
 Gain hands-on experience with modular Python projects
 
+---
+
 🔮 Future Plans
 Containerize the publisher and server with Docker
 
@@ -92,6 +95,8 @@ Deploy on Kubernetes for scalability and fault tolerance
 Add persistent storage with a database
 
 Implement authentication and enhanced UI
+
+---
 
 👩‍💻 About the Author
 This project was created by Didem TARIM as part of learning Python web development, API integration, and DevOps practices.
