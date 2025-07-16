@@ -29,7 +29,7 @@ The project consists of two main folders: `publisher` and `server`.
 
 - **server/**  
   Contains the Flask server script `server.py` which receives data and serves a web page showing the weather.  
-  Uses Flask and Jinja2 template engine for HTML rendering.  
+  Uses Flask template engine for HTML rendering.  
   Contains an embedded HTML template within the script or in a templates folder.
 
 ---
