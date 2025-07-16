@@ -43,9 +43,33 @@ Requests library for HTTP requests in the publisher
 
 wttr.in as a free weather API service
 
-Jinja2 templating for rendering the HTML page
+ ---
+
+🛠️ Automation & Containerization
+
+**GitHub Actions CI is configured to:**
+
+Run on push and pull request events targeting the master branch.
+
+Checkout the code.
+
+Setup Python 3.11 environment.
+
+Install dependencies from requirements.txt (if available).
+
+Run lint checks with flake8 for code quality.
+
+**Docker:**
+
+Docker images are built for consistent environment and deployment.
+
+This allows easier distribution and future scaling.
+
+Containerization also prepares the project for cloud or Kubernetes deployment.
+
 
 🎯 Purpose and Learning Goals
+
 Understand HTTP client-server communication in Python
 
 Learn to build REST APIs and dynamic web pages with Flask
